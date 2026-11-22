@@ -1,0 +1,7 @@
+Orbit: 500 km circular, i = 97.4 deg, period 94.6 min, beta 0.0 deg
+Eclipse fraction: simulated 0.372, analytic 0.378 (difference 0.005)
+Ground contacts over Mangaluru (el >= 10 deg): 2 passes, 14.5 min total, longest 7.3 min
+Power: average generation 12.55 W, average load 5.94 W, margin +6.61 W
+Battery: minimum state of charge 91.2 %, maximum depth of discharge 8.8 %
+Link: EIRP -1.0 dBW, G/T -14.5 dB/K, margin 9.0 dB at 10 deg, 19.3 dB at zenith passes
+Data: 1.04 MB/day downlinked vs 6.48 MB/day generated (16 % of payload data returned)
